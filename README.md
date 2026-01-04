@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4lfredo1nusu4l
-- 👀 I’m interested in ...create simple applications in python
-- 🌱 I’m currently learning ...how to use python in simple projects
-- 💞️ I’m looking to collaborate on ...miau
+- 👀 I’m interested in ...create simple applications in c++
+- 🌱 I’m currently learning ...how to use c++ in simple project
+- 💞️ I’m looking to collaborate on ... Linux Kernel
 - 📫 How to reach me ...contact me by email at gatoyoutuzip@gmail.com 
 
 <!---
